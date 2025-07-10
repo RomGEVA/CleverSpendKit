@@ -1,0 +1,6 @@
+framework module Pods_CleverSpendKit {
+  umbrella header "Pods-CleverSpendKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
