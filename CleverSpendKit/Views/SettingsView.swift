@@ -39,7 +39,7 @@ struct SettingsView: View {
     }
     
     private func openPrivacyPolicy() {
-        guard let url = URL(string: "https://your-privacy-policy-url.com") else { return }
+        guard let url = URL(string: "https://www.termsfeed.com/live/99a047e6-1fd5-4738-9962-342f6a25c51e") else { return }
         UIApplication.shared.open(url)
     }
     
